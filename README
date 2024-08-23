@@ -1,0 +1,49 @@
+## Search for Posts Mentioning a Specific Event:       
+         
+          "Your Event Name" site:facebook.com
+        
+## Search for Videos on a Topic:
+          
+           "Keyword" site:facebook.com/videos/
+ 
+## Search for Posts from a Specific User or Page:
+      
+           "Your Keyword" site:facebook.com/in/USERNAME
+      
+      Replace USERNAME with the specific Facebook profile username.
+
+
+## Search for Public Posts with a Specific Phrase:
+
+               "special phrase" site:facebook.com
+
+          
+## Search for Photos Tagged with a Keyword:
+
+              "Keyword" site:facebook.com/photos/
+            
+## Search for a Specific Hashtag:
+
+             "#YourHashtag" site:facebook.com
+
+## Advanced Google Dork for Facebook Content:
+
+If you prefer using Google to search for Facebook content  you can use:
+
+## Finding Public Groups Discussing a Topic:
+             
+             "Your Topic" site:facebook.com/groups
+
+## Finding Pages with Specific Terms in Posts:
+
+              "Your Keyword" site:facebook.com/pages
+              
+## Finding Comments on Public Posts:
+
+               "Your Keyword" site:facebook.com/comments
+
+## Example: Search for  Content on Facebook
+
+if you want to find posts about "Healthy life" from the year 2024:
+
+            "Healthy life" site:facebook.com after:2024 
